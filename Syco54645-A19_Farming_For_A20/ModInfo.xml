@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="A19 Farming For A20" />
+		<Description value="Crops return to seedling once harvested and you no longer get seeds when you harvest." />
+		<Author value="Syco54645"/>
+		<Version value="1.0" />
+	</ModInfo>
+</xml>
