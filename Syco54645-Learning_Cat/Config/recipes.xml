@@ -1,0 +1,10 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="drinkJarGrandpasLearningElixir" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable">
+      <ingredient name="foodCanCatfood" count="4" />
+      <ingredient name="drinkJarRedTea" count="2"/>
+      <ingredient name="resourceAcid" count="1"/>
+      <ingredient name="drinkJarBeer" count="1"/>
+    </recipe>
+  </append>
+</configs>

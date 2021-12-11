@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Learning Cat" />
+        <Description value="Learning Elixer can be crafted from cat food" />
+        <Author value="Syco54645" />
+        <Version value="1.0" />
+		<Website value="https://github.com/Syco54645/Syco54645A20ModletsXML"/>
+    </ModInfo>
+</xml>

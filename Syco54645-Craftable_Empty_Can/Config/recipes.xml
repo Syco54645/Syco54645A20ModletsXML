@@ -1,0 +1,7 @@
+<configs>
+  <append xpath="/recipes">
+    <recipe name="drinkCanEmpty" count="1">
+      <ingredient name="resourceScrapIron" count="3" />
+    </recipe>
+  </append>
+</configs>

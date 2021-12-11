@@ -1,0 +1,5 @@
+<configs>
+	<append xpath="/blocks/block[@name='treeMaster']">
+		<drop event="Harvest" name="resourceFeather" tag="allToolsHarvest" prob="0.5" count="2,7"/>
+	</append>
+</configs>

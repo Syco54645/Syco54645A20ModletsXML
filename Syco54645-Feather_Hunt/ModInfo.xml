@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="Feather Hunt" />
+        <Description value="Feather's can be 'shaken' from nests in trees and harvested from chickens" />
+        <Author value="Syco54645" />
+        <Version value="1.0" />
+		<Website value="https://github.com/Syco54645/Syco54645A20ModletsXML"/>
+    </ModInfo>
+</xml>
