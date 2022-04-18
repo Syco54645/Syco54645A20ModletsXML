@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Pick Up Spike and Barbed Wire Traps" />
+		<Description value="Allows spikes and barbed wire traps to be picked up. If they are damaged then you must repair first." />
+		<Author value="Syco54645"/>
+		<Version value="1.0" />
+		<Website value="https://github.com/Syco54645/Syco54645A20ModletsXML"/>
+	</ModInfo>
+</xml>
